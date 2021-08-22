@@ -14,6 +14,10 @@ Sheep o' Magic is a fun [spigot](https://www.spigotmc.org/) plugin  that makes s
 <img src="https://github.com/DevPieter/Sheep-o-Magic/raw/main/img/icon.png"/>
 <br>
 
+# Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xiQm4RWWB64"></iframe>
+
 # Tested Versions
 
 <p align="center"> 
