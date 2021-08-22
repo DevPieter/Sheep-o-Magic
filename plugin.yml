@@ -2,6 +2,6 @@ version: 1.0
 api-version: 1.17
 name: SheepOMagic
 main: nl.devpieter.sheepomagic.SheepOMagic
-description: Epic Overpowered Items
+description: Sheep o' Magic is a fun spigot plugin that makes sheep use their inner magic.
 author: DevPieter
 website: www.devpieter.nl
