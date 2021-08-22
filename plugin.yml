@@ -1,0 +1,7 @@
+version: 1.0
+api-version: 1.17
+name: SheepOMagic
+main: nl.devpieter.sheepomagic.SheepOMagic
+description: Epic Overpowered Items
+author: DevPieter
+website: www.devpieter.nl

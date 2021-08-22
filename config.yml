@@ -1,0 +1,57 @@
+# From this list, a random color is chosen for the sheep.
+# Supported colors: BLACK, BLUE, BROWN, CYAN, GRAY, GREEN, LIGHT_BLUE, LIGHT_GRAY, LIME, MAGENTA, ORANGE, PINK, PURPLE, RED, WHITE, YELLOW
+colors:
+  - BLACK
+  - BLUE
+  - BROWN
+  - CYAN
+  - GRAY
+  - GREEN
+  - LIGHT_BLUE
+  - LIGHT_GRAY
+  - LIME
+  - MAGENTA
+  - ORANGE
+  - PINK
+  - PURPLE
+  - RED
+  - WHITE
+  - YELLOW
+
+# Checked when the sheep takes damage.
+#   change_color > Changes the color of the sheep to a random dye color.
+#   spawn_particles > Spawns colored particles with the sheep's new color.
+#   make_baby > Sets the sheep to a baby.
+damage:
+  change_color: true
+  spawn_particles: true
+  make_baby: true
+
+# Checked when the sheep died.
+#   summon_lightning > Summons a lightning strike on the sheep's position.
+#   only_if_raining > Only summons a lightning strike if it's raining / thundering.
+#   real_lightning >  true: Summons a real lightning strike (Can cause a fire).
+#                     false: Only summons a lightning strike effect.
+die:
+  summon_lightning: true
+  only_if_raining: true
+  real_lightning: false
+
+# Checked when two sheep are bred.
+#   change_babys_color > Changes the color of the baby sheep to a random dye color.
+#   spawn_firework > Spawns a firework rocket with the color of the parents and fades to the color of the baby.
+breeding:
+  change_babys_color: true
+  spawn_firework: true
+
+# Checked when the sheep ate grass (grown its wool).
+#   always_make_adult > Always makes the sheep an adult when it ate grass.
+#   give_regeneration > Gives the sheep regeneration 3 for 5 seconds.
+#   spawn_particles > Spawns heart particles.
+regrow_wool:
+  always_make_adult: true
+  give_regeneration:
+    give: true
+    time: 5
+    amplifier: 3
+  spawn_particles: true
