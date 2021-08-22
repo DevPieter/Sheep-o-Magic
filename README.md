@@ -11,7 +11,7 @@
 
 Sheep o' Magic is a fun [spigot](https://www.spigotmc.org/) plugin  that makes sheep use their inner magic.
 
-<img src="https://github.com/DevPieter/Sheep-o-Magic/raw/main/img/sheep.PNG"/>
+<img src="https://github.com/DevPieter/Sheep-o-Magic/raw/main/img/icon.png"/>
 <br>
 
 # Tested Versions
