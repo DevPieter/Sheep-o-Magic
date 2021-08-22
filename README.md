@@ -16,7 +16,7 @@ Sheep o' Magic is a fun [spigot](https://www.spigotmc.org/) plugin  that makes s
 
 # Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xiQm4RWWB64"></iframe>
+[![Alt text](https://img.youtube.com/vi/xiQm4RWWB64/0.jpg)](https://www.youtube.com/watch?v=xiQm4RWWB64)
 
 # Tested Versions
 
